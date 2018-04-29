@@ -1,6 +1,6 @@
 // Generated from C.g4 by ANTLR 4.7.1
 
-package parser;
+package parser.c;
 
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Lexer;

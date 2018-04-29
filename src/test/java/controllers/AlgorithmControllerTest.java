@@ -3,8 +3,9 @@ package controllers;
 import algorithms.LevenshteinDistance;
 import algorithms.LCSAlgorithm;
 import algorithms.NeedlemanWunschAlgorithm;
+import parser.c.Node;
+
 import org.junit.Test;
-import parser.Node;
 
 import java.io.File;
 import java.util.logging.Logger;

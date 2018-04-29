@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import parser.Node;
+import parser.c.Node;
 
 public class EditDistanceTest {
 

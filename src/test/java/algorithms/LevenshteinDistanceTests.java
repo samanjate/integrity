@@ -9,7 +9,7 @@ import java.util.List;
 import org.junit.Test;
 
 import controllers.AlgorithmController;
-import parser.Node;
+import parser.c.Node;
 
 public class LevenshteinDistanceTests {
 

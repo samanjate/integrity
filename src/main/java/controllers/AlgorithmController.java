@@ -3,15 +3,15 @@ package controllers;
 import algorithms.AlgorithmContext;
 import algorithms.AlgorithmStrategy;
 import algorithms.IResult;
+import parser.c.CASTNodeListener;
+import parser.c.CLexer;
+import parser.c.CParser;
+import parser.c.Node;
 
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 import org.apache.log4j.Logger;
-import parser.CASTNodeListener;
-import parser.CLexer;
-import parser.CParser;
-import parser.Node;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

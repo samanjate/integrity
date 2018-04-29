@@ -1,7 +1,8 @@
 package algorithms;
 
 import org.junit.Test;
-import parser.Node;
+
+import parser.c.Node;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

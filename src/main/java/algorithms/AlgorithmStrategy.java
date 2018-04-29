@@ -1,8 +1,8 @@
 package algorithms;
 
-import parser.Node;
-
 import java.util.List;
+
+import parser.c.Node;
 
 /**
  * An AlgorithmStrategy is able to compute the similarities between two

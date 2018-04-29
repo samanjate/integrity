@@ -1,4 +1,4 @@
-package parser;
+package parser.c;
 /**
  * This class represents a subset of properties that can be retrieved from
  * CParser

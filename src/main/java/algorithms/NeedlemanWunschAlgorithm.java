@@ -1,8 +1,9 @@
 package algorithms;
 
-import parser.Node;
 import java.util.ArrayList;
 import java.util.List;
+
+import parser.c.Node;
 
 /**
  * An object of NeedlemanWunschAlgorithm is able to compute the similarity

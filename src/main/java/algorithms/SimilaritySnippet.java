@@ -1,6 +1,6 @@
 package algorithms;
 
-import parser.Node;
+import parser.c.Node;
 
 /**
  * This class gives an object representing similar code snippets that are

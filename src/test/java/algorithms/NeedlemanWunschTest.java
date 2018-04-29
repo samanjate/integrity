@@ -4,7 +4,7 @@ package algorithms;
 import org.junit.Test;
 
 import controllers.AlgorithmController;
-import parser.Node;
+import parser.c.Node;
 
 import static org.junit.Assert.assertTrue;
 

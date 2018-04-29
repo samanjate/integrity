@@ -1,4 +1,4 @@
-package parser;
+package parser.c;
 
 //This class is retrieved from ANTLR team-107 is not adding futhur
 // documentation than what is provided

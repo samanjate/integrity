@@ -23,7 +23,7 @@ import driver.Driver;
 import driver.FilePair;
 import driver.IDriver;
 import driver.IFilePair;
-import parser.Node;
+import parser.c.Node;
 
 /**
  * Tests for the Util class

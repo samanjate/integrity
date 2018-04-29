@@ -1,8 +1,8 @@
 package algorithms;
 
-import parser.Node;
-
 import java.util.List;
+
+import parser.c.Node;
 
 /**
  * An object of AlgorithmContext is able to set the strategy

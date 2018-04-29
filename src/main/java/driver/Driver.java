@@ -5,9 +5,11 @@ import algorithms.AlgorithmFactory;
 import algorithms.IResult;
 import controllers.AlgorithmController;
 import database.Connect;
+import parser.c.Node;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import parser.Node;
+
 import utils.ConfigUtils;
 
 import java.io.File;
